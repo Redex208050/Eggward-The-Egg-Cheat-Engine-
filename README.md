@@ -1,5 +1,5 @@
 ## Description
-The purpose of this project is to reverse engineer Egg, a game available on the Steam platform.
+The purpose of this project is to reverse engineer and create cheats for "Egg", a game available on the Steam platform.
 
 ## Tools/Languages
 - Visual Studio Code
