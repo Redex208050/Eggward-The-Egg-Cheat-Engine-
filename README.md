@@ -1,7 +1,7 @@
 ## Description
 The purpose of this project is to reverse engineer and create cheats for "Egg", a game available on the Steam platform.
 
-## Tools/Languages/Libraries
+## Tools/Languages/Libraries/etc.
 - Visual Studio Code
 - DnSpy
 - Python
