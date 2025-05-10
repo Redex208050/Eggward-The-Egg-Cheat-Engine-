@@ -4,7 +4,7 @@ The purpose of this project is to reverse engineer and create cheats for "Egg", 
 ## Tools/Languages/Libraries/etc.
 - Visual Studio Code
 - DnSpy
-- Python
+- Python 3
 - Pillow (python library)
 - tkinter (python package)
 - Unity Editor (Attempted to edit various assets, not used in final submission.)
