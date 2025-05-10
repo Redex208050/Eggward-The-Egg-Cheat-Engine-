@@ -1,10 +1,12 @@
 ## Description
 The purpose of this project is to reverse engineer and create cheats for "Egg", a game available on the Steam platform.
 
-## Tools/Languages
+## Tools/Languages/Libraries
 - Visual Studio Code
 - DnSpy
 - Python
+- Pillow (python library)
+- tkinter (python package)
 - Unity Editor (Attempted to edit various assets, not used in final submission.)
 - Cheat engine(to find where values were stored in memory, not used in final submission.)
 
